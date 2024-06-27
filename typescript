@@ -1,0 +1,1115 @@
+Script started on Wed Jun 26 11:28:07 2024
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab]2;admin@admins-MacBook-Pro]1;..functions-lab]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab\[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Kccode .   c  nnode script.js[?1l>[?2004l
+]2;node script.js]1;node[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab]2;admin@admins-MacBook-Pro]1;..functions-lab]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab\[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccode .[?1l>[?2004l
+]2;code .]1;code\[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab]2;admin@admins-MacBook-Pro]1;..functions-lab]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab\[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h\ ccode .[?1l>[?2004l
+]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab]2;admin@admins-MacBook-Pro]1;..functions-lab]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab\[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab]2;admin@admins-MacBook-Pro]1;..functions-lab]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab\[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hcclear   c  hhsit  h history[?1l>[?2004l
+]2;omz_history]1;history    1  echo $0
+    2  xcode-select --install
+    3  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n\nsh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+    5  brew help
+    6  brew install git\n
+    7  git config --global user.name "wendy-silva"
+    8  git config --global user.email "silvawendy0131@gmail.com"
+    9  git config --global init.defaultBranch main\n
+   10  git config --global core.editor "code --wait"\n
+   11  echo "export GIT_MERGE_AUTOEDIT=no" >> ~/.zshrc\n
+   12  git config --global pull.rebase false\n
+   13  touch ~/.gitignore_global\n
+   14  git config --global core.excludesfile ~/.gitignore_global\n
+   15  code ~/.gitignore_global\n
+   16  code
+   17  pwd
+   18  ls
+   19  cd..
+   20  cd ..
+   21  ls
+   22  cd
+   23  cd ..
+   24  cd wendysilva
+   25  admin
+   26  cd code
+   27  whoami
+   28  pwd
+   29  cd
+   30  cd D
+   31  cd Music
+   32  cd ..
+   33  mkdir code\n
+   34  cd
+   35  mkdir code\n
+   36  cd
+   37  cd code
+   38  mkdirn be-here-now-0624
+   39  cd
+   40  cd code 
+   41  mkdir be-here-now-0624
+   42  tree be-here-be-now-0624
+   43  cd ..
+   44  tree code/be-here-be-now-0624
+   45  cd
+   46  code mkdir be-here-now
+   47  tree code/be-here-now
+   48  code
+   49  cd be-here-now-0624
+   50  mkdir general assembly
+   51  cd
+   52  touch file.txt\n
+   53  rm be-here-now
+   54  rm be-here-now-0624/
+   55  cd
+   56  cd code
+   57  cd be-here-now-0624
+   58  rm general
+   59  rmdir general
+   60  mkdir labs lectures projects sandbox
+   61  ls
+   62  rmdir assembly
+   63  ls
+   64  cd
+   65  man rm
+   66  ls -a\n
+   67  ls -l\n
+   68  ls -a -l\n
+   69  ls -la\n
+   70  cd
+   71  cd code/ga/labs
+   72  cd ~/code/ga/labs\n
+   73  cd ~/code/labs
+   74  cd code
+   75  labs
+   76  be-here-now-0624
+   77  labs
+   78  cd
+   79  cd code
+   80  ls
+   81  cd be-here-now-0624
+   82  cd labs
+   83  pwd
+   84  cd
+   85  cd code
+   86  ls
+   87  labs
+   88  cd be-here-now-0624
+   89  cd labs
+   90  mkdir star-wars
+   91  ls
+   92  cd star-wars
+   93  mkdir death-star
+   94  ls
+   95  death-star
+   96  touch darth-vader.txt princess-leia.txt storm-trooper.txt
+   97  ls
+   98  cd ..
+   99  mkdir galaxy-far-fgar-away
+  100  ls
+  101  rmdir galaxy-far-fgar-away
+  102  ls
+  103  mkdir galaxy-far-far-away
+  104  ls
+  105  galaxy-far-far-away
+  106  mkdir tatooine
+  107  tatooine
+  108  touch luke.txt ben-kenobi.txt
+  109  ls
+  110  mkdir millenium-falcon
+  111  ls
+  112  millenium-falcon
+  113  touch han-solo.txt chewbacca.txt
+  114  ls
+  115  cd
+  116  man cp
+  117  cd code
+  118  labs
+  119  be-here-now-0624
+  120  labs
+  121  star-wars
+  122  death-star
+  123  cd
+  124  cp storm-trooper.txt tatooine
+  125  cd code
+  126  be-here-now-0624
+  127  labs
+  128  star-wars
+  129  death-star
+  130  cp storm.trooper.txt tattooine
+  131  cd
+  132  man cp
+  133  cd code
+  134  be-here-now-0624
+  135  labs
+  136  star-wars
+  137  death-star
+  138  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+  139  ls ../galaxy-far-far-away/tatooine
+  140  cd ..
+  141  galaxy-far-far-away
+  142  mv luke.txt /millenium-falcon/
+  143  mv luke.txt ben-kenobi.txt  millenium-falcon
+  144  tatooine
+  145  mv luke.txt ben-kenobi.txt millenium-falcon
+  146  millenium-falcon
+  147  ls
+  148  cd ..
+  149  mv millenium-falcon /star-wars/galaxy-far-far-away
+  150  mv ~/millenium-falcon ~/galaxy-far-far-away
+  151  cd
+  152  man mv
+  153  cd code
+  154  be-here-now-0624
+  155  labs
+  156  star-wars
+  157  galaxy-far-far-away
+  158  tatooine
+  159  mv millenium-falcon ../
+  160  cd ..
+  161  mv millenium-falcon ../death-star
+  162  cd ..
+  163  death-star
+  164  ls
+  165  mv princess-leia.txt ../death-star/millenium-falcon
+  166  ls
+  167  millenium-falcon
+  168  ls
+  169  mv ben-kenobi.txt obi-wan.txt
+  170  ls
+  171  rm obi-wan.txt
+  172  cd ..
+  173  galaxy-far-far-away
+  174  mkdir yavin-4
+  175  ls
+  176  cd ..
+  177  death
+  178  death-star
+  179  mv millenium-falcon ../galaxy-far-far-away
+  180  cd ..
+  181  galaxy-far-far-away
+  182  mv millenium-falcon ../death-star
+  183  cd ..
+  184  death-star
+  185  mv millenium-falcon ../galaxy-far-far-away/yavin-4
+  186  cd ..
+  187  galaxy-far-far-away
+  188  yavin-4
+  189  mkdir x-wing
+  190  ls
+  191  millenium-falcon
+  192  mv princess-leia.txt ../
+  193  ..
+  194  ls
+  195  millenium-falcon
+  196  mv luke.txt ../x-wing
+  197  cd ..
+  198  x-wing
+  199  ls
+  200  cd ..
+  201  ls
+  202  mv millenium-falcon /Users/admin/code/be-here-now-0624/star-wars/galaxy-far-far-away 
+  203  ls
+  204  mv millenium-falcon /Users/admin/code/be-here-now-0624/labs/star-wars/galaxy-far-far-away
+  205  mv x-wing /Users/admin/code/be-here-now-0624/labs/star-wars/galaxy-far-far-away
+  206  cd ..
+  207  death-star
+  208  mkdir tie-fighter-1 tie-fighter-2 tie-fighter-3
+  209  ls
+  210  mv darth-vader.txt ../death-star/tie-fighter-1
+  211  tie-fighter-1
+  212  ls
+  213  cd ..
+  214  cp storm-trooper.txt ../death-star/tie-fighter-2
+  215  cp storm-trooper.txt ../death-star/tie-fighter-3
+  216  mv tie-fighter-1 tie-fighter-2 tie-fighter-3 ../galaxy-far-far-away
+  217  cd ..
+  218  galaxy-far-far-away
+  219  ls
+  220  rm tie-fighter-2 tie-fighter-3
+  221  rm -r tie-fighter-2 tie-fighter-3
+  222  x-
+  223  x-wing
+  224  touch the-force.txt
+  225  ls
+  226  cd ..
+  227  death
+  228  death-star
+  229  cd ..
+  230  rm -r death-star
+  231  ls
+  232  gala
+  233  galaxy-far-far-away
+  234  ls
+  235  mv x-wing millenium-falcon ../galaxy-far-far-away/yavin-4
+  236  ls
+  237  ..
+  238  rm -r star-wars
+  239  ls
+  240  cd code/be-here-now-0624
+  241  ..
+  242  git clone https://github.com/wendy-silva/general-assembly.git
+  243  gh auth
+  244  cd
+  245  brew install gh
+  246  gh auth login
+  247  code https://github.com/wendy-silva/general-assembly.git
+  248  code git clone https://github.com/wendy-silva/general-assembly.git
+  249  cd
+  250  cd code/be-here-now-0624
+  251  ..
+  252  git clone https://github.com/wendy-silva/general-assembly.git
+  253  ls
+  254  general-assembly
+  255  git status
+  256  clear
+  257  git status
+  258  code .
+  259  git status
+  260  git pull
+  261  ls
+  262  cd ..
+  263  ls
+  264  cd general-assembly
+  265  git pull
+  266  git -v
+  267  git add .
+  268  git status
+  269  git pull
+  270  git status
+  271  ls
+  272  cd ..
+  273  rmdir general-assembly
+  274  ls
+  275  cd general-assembly
+  276  ls
+  277  rm README.md
+  278  ls
+  279  cd ..
+  280  rmdir general-assembly
+  281  ls
+  282  cd general-assembly
+  283  ls -a
+  284  rm . .. .git
+  285  git pull
+  286  cd ..
+  287  ls
+  288  git clone https://github.com/wendy-silva/general-assembly.git
+  289  cd
+  290  pwd
+  291  cd Desktop
+  292  cd ..
+  293  cd code/
+  294  ls
+  295  cd general-assembly
+  296  code .
+  297  git status
+  298  cd ..
+  299  ls
+  300  git clone https://github.com/wendy-silva/general-assembly2.git
+  301  ls
+  302  cd general-assembly2
+  303  code .
+  304  git status
+  305  rm README.md
+  306  touch READ.md
+  307  rm READ.md
+  308  touch README.md
+  309  git status
+  310  git add .
+  311  git status
+  312  git commit -m 'we wrote heloo'
+  313  git push
+  314  git status
+  315  git add .
+  316  git status
+  317  ls -l 
+  318  pwd
+  319  ls -l
+  320  git status
+  321  git add README.md
+  322  git status
+  323  pwd
+  324  git add .
+  325  git statuas
+  326  git status
+  327  touch README.md
+  328  cd
+  329  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  330  brew hwlp
+  331  brew help
+  332  brew install git\n
+  333  git config --global user.name "wendy-silva"
+  334  git config --global user.email "silvawendy0131@gmail.com"
+  335  git config --global init.defaultBranch main\n
+  336  git config --global core.editor "code --wait"\n
+  337  echo "export GIT_MERGE_AUTOEDIT=no" >> ~/.zshrc\n
+  338  git config --global pull.rebase false\n
+  339  touch ~/.gitignore_global\n
+  340  git config --global core.excludesfile ~/.gitignore_global\n
+  341  code ~/.gitignore_global\n
+  342  nvm
+  343  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash\n
+  344  nvm --version \n
+  345  nvm install 20\n
+  346  cat << EOF >> ~/.zshrc\n\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && \\. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \\. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion\nEOF
+  347  cat << EOF >> ~/.zshrc\n\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && \\. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \\. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion\nEOF\n\n
+  348  npm config set update-notifier false\n
+  349  npm i -g nodemon\n
+  350  code
+  351  cd code
+  352  general-assembly
+  353  git status
+  354  . code
+  355  cd code
+  356  general-assembly2
+  357  git status
+  358  git add -A\n
+  359  git add index.html\n
+  360  git commit -m "this is wendy hi"
+  361  git push
+  362  git log
+  363  clear
+  364  cd
+  365  brew install gh
+  366  gh auth login
+  367  cd code
+  368  general-assembly
+  369  ..
+  370  be
+  371  be-here-now-0624
+  372  lectures
+  373  mkdir intro-to-js\ncd intro-to-js\n
+  374  touch index.html app.js\n
+  375  code .\n
+  376  node app.js
+  377  node mode
+  378  node app.js
+  379  ..
+  380  mkdir intro-to-js
+  381  mkdir js-control-flow
+  382  cd js-control-flow
+  383  touch index.html app.js\n
+  384  code .\n
+  385  clear
+  386  ..
+  387  node app.js\n
+  388  node app.js
+  389  const val = 1;\n\n// Ask: Is val exactly equal to 1?\nif (val === 1) {\n  console.log('This code runs because val is 1');\n}\n// Since val is 1, the answer is 'yes', so the code inside the if block runs.\n
+  390  clear
+  391  node app.js
+  392  node app.js\n
+  393  pwd
+  394  cd code
+  395  cd lectures
+  396  ls
+  397  be-here-now-0624
+  398  lectures
+  399  js
+  400  ls
+  401  js-control-flow
+  402  ls
+  403  node app.js
+  404  history
+  405  node app.js..
+  406  ..
+  407  mkdir js-functions\ncd js-functions\n
+  408  touch app.js index.html\n
+  409  code .\n
+  410  node app.js\n
+  411  node app.js
+  412  node app.;js
+  413  node app.js
+  414  code
+  415  be-here-now-0624
+  416  labs
+  417  git clone https://github.com/\<your-username\>/js-functions-lab.git\n
+  418  git clone https://github.com/\<wendy-silvae\>/js-functions-lab.git\n
+  419  git clone https://github.com/\<wendy-silva\>/js-functions-lab.git\n
+  420  ls
+  421  ..
+  422  ls
+  423  lectures
+  424  ls
+  425  ..
+  426  labs
+  427  git clone https://github.com/wendy-silva/js-functions-lab.git
+  428  ls
+  429  js-functions-lab
+  430  touch script.js index.html\n
+  431  code .\n
+  432  ls
+  433  ..
+  434  js-functions-lab
+  435  code .
+  436  clear
+  437  ls
+  438  code .
+  439  ..
+  440  git clone https://github.com/wendy-silva/js-functions-lab.git
+  441  js
+  442  js-functions-lab
+  443  code .
+  444  ..
+  445  js-functions-lab
+  446  touch script.js index.html
+  447  code .
+  448  ls
+  449  ..
+  450  rm -r js-functions-lab
+  451  cd code
+  452  be-here-now-0624
+  453  labs
+  454  js-functions-lab
+  455  code .
+  456  . code
+  457  cd code
+  458  be-here-now-0624
+  459  labs
+  460  js-functions-lab
+  461  git remote -v
+  462  code .
+  463  git status
+  464  code .
+  465  ls
+  466  ..
+  467  ls
+  468  js-functions-lab
+  469  code .
+  470  cd code
+  471  be-here
+  472  be-here-now-0624
+  473  labs
+  474  rm -r js-functions-lab
+  475  cd code
+  476  be-here-now-0624
+  477  labs
+  478  rm js-functions-lab
+  479  rm -r js-functions-lab
+  480  cd clone
+  481  cd code
+  482  be-here-now-0624
+  483  labs
+  484  rm -rf ~/code/be-here-now-0624/labs/js-functions-lab
+  485  ls
+  486  git clone https://github.com/wendy-silva/js-functions-lab.git
+  487  js-functions-lab
+  488  code .
+  489  touch script.js index.html
+  490  code .
+  491  node script.js\n
+  492  code .
+  493  script
+  494  node script.js
+  495  code .
+  496* node script.js
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab]2;admin@admins-MacBook-Pro]1;..functions-lab]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab\[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab]2;admin@admins-MacBook-Pro]1;..functions-lab]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/labs/js-functions-lab\[0m[27m[24m[J[01;32m➜  [36mjs-functions-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin]2;admin@admins-MacBook-Pro]1;~]7;file://admins-MacBook-Pro.local/Users/admin\[0m[27m[24m[J[01;32m➜  [36m~[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36m~[00m [Kccd code[?1l>[?2004l
+]2;cd code]1;cd[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code]2;admin@admins-MacBook-Pro]1;~/code]7;file://admins-MacBook-Pro.local/Users/admin/code\[0m[27m[24m[J[01;32m➜  [36mcode[00m [K[?1h=[?2004hn bbe-here-now-0624[1m/[0m[0m [?1l>[?2004l
+]2;be-here-now-0624]1;be-here-now-0624[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624]2;admin@admins-MacBook-Pro]1;..here-now-0624]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624\[0m[27m[24m[J[01;32m➜  [36mbe-here-now-0624[00m [K[?1h=[?2004hllal lectures[1m/[0m[0m [?1l>[?2004l
+]2;lectures]1;lectures[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures]2;admin@admins-MacBook-Pro]1;..0624/lectures]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures\[0m[27m[24m[J[01;32m➜  [36mlectures[00m [K[?1h=[?2004hj ttouch javascript-scope.txt                        t  mmkdir javascript-scope[?1l>[?2004l
+]2;mkdir javascript-scope]1;mkdir[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures]2;admin@admins-MacBook-Pro]1;..0624/lectures]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures\[0m[27m[24m[J[01;32m➜  [36mlectures[00m [K[?1h=[?2004ht jjava
+[0mjava               javadoc            javap              [1;36mjavascript-scope[0m/                   
+[Jjavac              [Jjavah              [Jjavapackager       [Jjavaws             [J                 [A[A[0m[27m[24m[12Cjava[K
+[J[0mjava               javadoc            javap              [1;36mjavascript-scope[0m/                   
+[Jjavac              [Jjavah              [Jjavapackager       [Jjavaws             [J                 [A[A[0m[27m[24m[12Cjava[K
+[7mjava             [0m  javadoc            javap              [1;36mjavascript-scope[0m/                   [K
+[Jjavac              [Jjavah              [Jjavapackager       [Jjavaws             [J                 [A[A[0m[27m[24m[12Cjava[K
+[7mjava             [0m  [7mjava             [0m  [A[0m[27m[24m[12Cjava[Kc
+[0mjava               [1B[7mjavac            [0m  [A[A[0m[27m[24m[12Cjavac[Kdoc
+[19C[7mjavadoc          [0m  [1Bjavac              [A[A[0m[27m[24m[12Cjavadoc[Kh  
+[19C[0mjavadoc            [1B[19C[7mjavah            [0m  [A[A[0m[27m[24m[12Cjavah[Kp
+[38C[7mjavap            [0m  [1B[19Cjavah              [A[A[0m[27m[24m[12Cjavap[Kackager
+[38C[0mjavap              [1B[38C[7mjavapackager     [0m  [A[A[0m[27m[24m[12Cjavapackager[K[8Dscript-scope[1m/[0m
+[57C[7mjavascript-scope/[0m[1B[38Cjavapackager       [A[A[0m[27m[24m[12Cjavascript-scope[1m/[0m[K
+[J[A[29C[0m [?1l>[?2004l
+[J]2;javascript-scope]1;javascript-scope[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004httouch index.txt app.js         html app.js[?1l>[?2004l
+]2;touch index.html app.js]1;touch[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsapp.js     index.html
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004hn ccode .[?1l>[?2004l
+]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004haauthserver[1m [0m[0m [?1l>[?2004l
+]2;authserver]1;authserverzsh: permission denied: authserver
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;31m➜  [36mjavascript-scope[00m [K[?1h=[?2004haauth gen     a  aaya auth [?1l>[?2004l
+]2;auth]1;authzsh: command not found: auth
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;31m➜  [36mjavascript-scope[00m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004hhhistory[?1l>[?2004l
+]2;omz_history]1;history    1  echo $0
+    2  xcode-select --install
+    3  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n\nsh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+    5  brew help
+    6  brew install git\n
+    7  git config --global user.name "wendy-silva"
+    8  git config --global user.email "silvawendy0131@gmail.com"
+    9  git config --global init.defaultBranch main\n
+   10  git config --global core.editor "code --wait"\n
+   11  echo "export GIT_MERGE_AUTOEDIT=no" >> ~/.zshrc\n
+   12  git config --global pull.rebase false\n
+   13  touch ~/.gitignore_global\n
+   14  git config --global core.excludesfile ~/.gitignore_global\n
+   15  code ~/.gitignore_global\n
+   16  code
+   17  pwd
+   18  ls
+   19  cd..
+   20  cd ..
+   21  ls
+   22  cd
+   23  cd ..
+   24  cd wendysilva
+   25  admin
+   26  cd code
+   27  whoami
+   28  pwd
+   29  cd
+   30  cd D
+   31  cd Music
+   32  cd ..
+   33  mkdir code\n
+   34  cd
+   35  mkdir code\n
+   36  cd
+   37  cd code
+   38  mkdirn be-here-now-0624
+   39  cd
+   40  cd code 
+   41  mkdir be-here-now-0624
+   42  tree be-here-be-now-0624
+   43  cd ..
+   44  tree code/be-here-be-now-0624
+   45  cd
+   46  code mkdir be-here-now
+   47  tree code/be-here-now
+   48  code
+   49  cd be-here-now-0624
+   50  mkdir general assembly
+   51  cd
+   52  touch file.txt\n
+   53  rm be-here-now
+   54  rm be-here-now-0624/
+   55  cd
+   56  cd code
+   57  cd be-here-now-0624
+   58  rm general
+   59  rmdir general
+   60  mkdir labs lectures projects sandbox
+   61  ls
+   62  rmdir assembly
+   63  ls
+   64  cd
+   65  man rm
+   66  ls -a\n
+   67  ls -l\n
+   68  ls -a -l\n
+   69  ls -la\n
+   70  cd
+   71  cd code/ga/labs
+   72  cd ~/code/ga/labs\n
+   73  cd ~/code/labs
+   74  cd code
+   75  labs
+   76  be-here-now-0624
+   77  labs
+   78  cd
+   79  cd code
+   80  ls
+   81  cd be-here-now-0624
+   82  cd labs
+   83  pwd
+   84  cd
+   85  cd code
+   86  ls
+   87  labs
+   88  cd be-here-now-0624
+   89  cd labs
+   90  mkdir star-wars
+   91  ls
+   92  cd star-wars
+   93  mkdir death-star
+   94  ls
+   95  death-star
+   96  touch darth-vader.txt princess-leia.txt storm-trooper.txt
+   97  ls
+   98  cd ..
+   99  mkdir galaxy-far-fgar-away
+  100  ls
+  101  rmdir galaxy-far-fgar-away
+  102  ls
+  103  mkdir galaxy-far-far-away
+  104  ls
+  105  galaxy-far-far-away
+  106  mkdir tatooine
+  107  tatooine
+  108  touch luke.txt ben-kenobi.txt
+  109  ls
+  110  mkdir millenium-falcon
+  111  ls
+  112  millenium-falcon
+  113  touch han-solo.txt chewbacca.txt
+  114  ls
+  115  cd
+  116  man cp
+  117  cd code
+  118  labs
+  119  be-here-now-0624
+  120  labs
+  121  star-wars
+  122  death-star
+  123  cd
+  124  cp storm-trooper.txt tatooine
+  125  cd code
+  126  be-here-now-0624
+  127  labs
+  128  star-wars
+  129  death-star
+  130  cp storm.trooper.txt tattooine
+  131  cd
+  132  man cp
+  133  cd code
+  134  be-here-now-0624
+  135  labs
+  136  star-wars
+  137  death-star
+  138  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+  139  ls ../galaxy-far-far-away/tatooine
+  140  cd ..
+  141  galaxy-far-far-away
+  142  mv luke.txt /millenium-falcon/
+  143  mv luke.txt ben-kenobi.txt  millenium-falcon
+  144  tatooine
+  145  mv luke.txt ben-kenobi.txt millenium-falcon
+  146  millenium-falcon
+  147  ls
+  148  cd ..
+  149  mv millenium-falcon /star-wars/galaxy-far-far-away
+  150  mv ~/millenium-falcon ~/galaxy-far-far-away
+  151  cd
+  152  man mv
+  153  cd code
+  154  be-here-now-0624
+  155  labs
+  156  star-wars
+  157  galaxy-far-far-away
+  158  tatooine
+  159  mv millenium-falcon ../
+  160  cd ..
+  161  mv millenium-falcon ../death-star
+  162  cd ..
+  163  death-star
+  164  ls
+  165  mv princess-leia.txt ../death-star/millenium-falcon
+  166  ls
+  167  millenium-falcon
+  168  ls
+  169  mv ben-kenobi.txt obi-wan.txt
+  170  ls
+  171  rm obi-wan.txt
+  172  cd ..
+  173  galaxy-far-far-away
+  174  mkdir yavin-4
+  175  ls
+  176  cd ..
+  177  death
+  178  death-star
+  179  mv millenium-falcon ../galaxy-far-far-away
+  180  cd ..
+  181  galaxy-far-far-away
+  182  mv millenium-falcon ../death-star
+  183  cd ..
+  184  death-star
+  185  mv millenium-falcon ../galaxy-far-far-away/yavin-4
+  186  cd ..
+  187  galaxy-far-far-away
+  188  yavin-4
+  189  mkdir x-wing
+  190  ls
+  191  millenium-falcon
+  192  mv princess-leia.txt ../
+  193  ..
+  194  ls
+  195  millenium-falcon
+  196  mv luke.txt ../x-wing
+  197  cd ..
+  198  x-wing
+  199  ls
+  200  cd ..
+  201  ls
+  202  mv millenium-falcon /Users/admin/code/be-here-now-0624/star-wars/galaxy-far-far-away 
+  203  ls
+  204  mv millenium-falcon /Users/admin/code/be-here-now-0624/labs/star-wars/galaxy-far-far-away
+  205  mv x-wing /Users/admin/code/be-here-now-0624/labs/star-wars/galaxy-far-far-away
+  206  cd ..
+  207  death-star
+  208  mkdir tie-fighter-1 tie-fighter-2 tie-fighter-3
+  209  ls
+  210  mv darth-vader.txt ../death-star/tie-fighter-1
+  211  tie-fighter-1
+  212  ls
+  213  cd ..
+  214  cp storm-trooper.txt ../death-star/tie-fighter-2
+  215  cp storm-trooper.txt ../death-star/tie-fighter-3
+  216  mv tie-fighter-1 tie-fighter-2 tie-fighter-3 ../galaxy-far-far-away
+  217  cd ..
+  218  galaxy-far-far-away
+  219  ls
+  220  rm tie-fighter-2 tie-fighter-3
+  221  rm -r tie-fighter-2 tie-fighter-3
+  222  x-
+  223  x-wing
+  224  touch the-force.txt
+  225  ls
+  226  cd ..
+  227  death
+  228  death-star
+  229  cd ..
+  230  rm -r death-star
+  231  ls
+  232  gala
+  233  galaxy-far-far-away
+  234  ls
+  235  mv x-wing millenium-falcon ../galaxy-far-far-away/yavin-4
+  236  ls
+  237  ..
+  238  rm -r star-wars
+  239  ls
+  240  cd code/be-here-now-0624
+  241  ..
+  242  git clone https://github.com/wendy-silva/general-assembly.git
+  243  gh auth
+  244  cd
+  245  brew install gh
+  246  gh auth login
+  247  code https://github.com/wendy-silva/general-assembly.git
+  248  code git clone https://github.com/wendy-silva/general-assembly.git
+  249  cd
+  250  cd code/be-here-now-0624
+  251  ..
+  252  git clone https://github.com/wendy-silva/general-assembly.git
+  253  ls
+  254  general-assembly
+  255  git status
+  256  clear
+  257  git status
+  258  code .
+  259  git status
+  260  git pull
+  261  ls
+  262  cd ..
+  263  ls
+  264  cd general-assembly
+  265  git pull
+  266  git -v
+  267  git add .
+  268  git status
+  269  git pull
+  270  git status
+  271  ls
+  272  cd ..
+  273  rmdir general-assembly
+  274  ls
+  275  cd general-assembly
+  276  ls
+  277  rm README.md
+  278  ls
+  279  cd ..
+  280  rmdir general-assembly
+  281  ls
+  282  cd general-assembly
+  283  ls -a
+  284  rm . .. .git
+  285  git pull
+  286  cd ..
+  287  ls
+  288  git clone https://github.com/wendy-silva/general-assembly.git
+  289  cd
+  290  pwd
+  291  cd Desktop
+  292  cd ..
+  293  cd code/
+  294  ls
+  295  cd general-assembly
+  296  code .
+  297  git status
+  298  cd ..
+  299  ls
+  300  git clone https://github.com/wendy-silva/general-assembly2.git
+  301  ls
+  302  cd general-assembly2
+  303  code .
+  304  git status
+  305  rm README.md
+  306  touch READ.md
+  307  rm READ.md
+  308  touch README.md
+  309  git status
+  310  git add .
+  311  git status
+  312  git commit -m 'we wrote heloo'
+  313  git push
+  314  git status
+  315  git add .
+  316  git status
+  317  ls -l 
+  318  pwd
+  319  ls -l
+  320  git status
+  321  git add README.md
+  322  git status
+  323  pwd
+  324  git add .
+  325  git statuas
+  326  git status
+  327  touch README.md
+  328  cd
+  329  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  330  brew hwlp
+  331  brew help
+  332  brew install git\n
+  333  git config --global user.name "wendy-silva"
+  334  git config --global user.email "silvawendy0131@gmail.com"
+  335  git config --global init.defaultBranch main\n
+  336  git config --global core.editor "code --wait"\n
+  337  echo "export GIT_MERGE_AUTOEDIT=no" >> ~/.zshrc\n
+  338  git config --global pull.rebase false\n
+  339  touch ~/.gitignore_global\n
+  340  git config --global core.excludesfile ~/.gitignore_global\n
+  341  code ~/.gitignore_global\n
+  342  nvm
+  343  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash\n
+  344  nvm --version \n
+  345  nvm install 20\n
+  346  cat << EOF >> ~/.zshrc\n\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && \\. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \\. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion\nEOF
+  347  cat << EOF >> ~/.zshrc\n\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && \\. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \\. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion\nEOF\n\n
+  348  npm config set update-notifier false\n
+  349  npm i -g nodemon\n
+  350  code
+  351  cd code
+  352  general-assembly
+  353  git status
+  354  . code
+  355  cd code
+  356  general-assembly2
+  357  git status
+  358  git add -A\n
+  359  git add index.html\n
+  360  git commit -m "this is wendy hi"
+  361  git push
+  362  git log
+  363  clear
+  364  cd
+  365  brew install gh
+  366  gh auth login
+  367  cd code
+  368  general-assembly
+  369  ..
+  370  be
+  371  be-here-now-0624
+  372  lectures
+  373  mkdir intro-to-js\ncd intro-to-js\n
+  374  touch index.html app.js\n
+  375  code .\n
+  376  node app.js
+  377  node mode
+  378  node app.js
+  379  ..
+  380  mkdir intro-to-js
+  381  mkdir js-control-flow
+  382  cd js-control-flow
+  383  touch index.html app.js\n
+  384  code .\n
+  385  clear
+  386  ..
+  387  node app.js\n
+  388  node app.js
+  389  const val = 1;\n\n// Ask: Is val exactly equal to 1?\nif (val === 1) {\n  console.log('This code runs because val is 1');\n}\n// Since val is 1, the answer is 'yes', so the code inside the if block runs.\n
+  390  clear
+  391  node app.js
+  392  node app.js\n
+  393  pwd
+  394  cd code
+  395  cd lectures
+  396  ls
+  397  be-here-now-0624
+  398  lectures
+  399  js
+  400  ls
+  401  js-control-flow
+  402  ls
+  403  node app.js
+  404  history
+  405  node app.js..
+  406  ..
+  407  mkdir js-functions\ncd js-functions\n
+  408  touch app.js index.html\n
+  409  code .\n
+  410  node app.js\n
+  411  node app.js
+  412  node app.;js
+  413  node app.js
+  414  code
+  415  be-here-now-0624
+  416  labs
+  417  git clone https://github.com/\<your-username\>/js-functions-lab.git\n
+  418  git clone https://github.com/\<wendy-silvae\>/js-functions-lab.git\n
+  419  git clone https://github.com/\<wendy-silva\>/js-functions-lab.git\n
+  420  ls
+  421  ..
+  422  ls
+  423  lectures
+  424  ls
+  425  ..
+  426  labs
+  427  git clone https://github.com/wendy-silva/js-functions-lab.git
+  428  ls
+  429  js-functions-lab
+  430  touch script.js index.html\n
+  431  code .\n
+  432  ls
+  433  ..
+  434  js-functions-lab
+  435  code .
+  436  clear
+  437  ls
+  438  code .
+  439  ..
+  440  git clone https://github.com/wendy-silva/js-functions-lab.git
+  441  js
+  442  js-functions-lab
+  443  code .
+  444  ..
+  445  js-functions-lab
+  446  touch script.js index.html
+  447  code .
+  448  ls
+  449  ..
+  450  rm -r js-functions-lab
+  451  cd code
+  452  be-here-now-0624
+  453  labs
+  454  js-functions-lab
+  455  code .
+  456  . code
+  457  cd code
+  458  be-here-now-0624
+  459  labs
+  460  js-functions-lab
+  461  git remote -v
+  462  code .
+  463  git status
+  464  code .
+  465  ls
+  466  ..
+  467  ls
+  468  js-functions-lab
+  469  code .
+  470  cd code
+  471  be-here
+  472  be-here-now-0624
+  473  labs
+  474  rm -r js-functions-lab
+  475  cd code
+  476  be-here-now-0624
+  477  labs
+  478  rm js-functions-lab
+  479  rm -r js-functions-lab
+  480  cd clone
+  481  cd code
+  482  be-here-now-0624
+  483  labs
+  484  rm -rf ~/code/be-here-now-0624/labs/js-functions-lab
+  485  ls
+  486  git clone https://github.com/wendy-silva/js-functions-lab.git
+  487  js-functions-lab
+  488  code .
+  489  touch script.js index.html
+  490  code .
+  491  node script.js\n
+  492  code .
+  493  script
+  494  node script.js
+  495  code .
+  496* node script.js
+  497  history
+  498  clear
+  499* node script.js
+  500* clear
+  501* node script.js
+  502* clear
+  503* node script.js
+  504  cd
+  505  cd code
+  506  be-here-now-0624
+  507  lectures
+  508  mkdir javascript-scope
+  509  javascript-scope
+  510  touch index.html app.js
+  511  ls
+  512  code .
+  513* node app.js
+  514* clear
+  515  authserver
+  516  auth
+  517  clear
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004hq ggh auth login[?1l>[?2004l
+]2;gh auth login]1;gh7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+[0;39m  GitHub Enterprise Server[0m
+7[1A[0G[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+[0;39m  GitHub Enterprise Server[0m
+7[1A[0G[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? c[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+7[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? cl[0m  [0;36m[Use arrows to move, type to filter][0m
+78[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? cle[0m  [0;36m[Use arrows to move, type to filter][0m
+78[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? clea[0m  [0;36m[Use arrows to move, type to filter][0m
+78[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? clear[0m  [0;36m[Use arrows to move, type to filter][0m
+78[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? clea[0m  [0;36m[Use arrows to move, type to filter][0m
+78[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? cle[0m  [0;36m[Use arrows to move, type to filter][0m
+78[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? cl[0m  [0;36m[Use arrows to move, type to filter][0m
+78[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into? c[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+7[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+[0;39m  GitHub Enterprise Server[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m[0;36m GitHub.com[0m
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations on this host?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> HTTPS[0m
+[0;39m  SSH[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations on this host?[0m[0;36m HTTPS[0m
+[0G[2K[0;1;92m? [0m[0;1;99mAuthenticate Git with your GitHub credentials? [0m[0;39m(Y/n) [0m[?25l7[999;999f[6n8[?25h[6n[1B[0G[1A[0G[0G[2K[0;1;92m? [0m[0;1;99mAuthenticate Git with your GitHub credentials? [0m[0;36mYes[0m
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mHow would you like to authenticate GitHub CLI?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> Login with a web browser[0m
+[0;39m  Paste an authentication token[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mHow would you like to authenticate GitHub CLI?[0m[0;36m Login with a web browser[0m
+
+[0;33m![0m First copy your one-time code: [0;1;39mD7A7-0D67[0m
+[0;1;39mPress Enter[0m to open github.com in your browser... clear
+[0;32m✓[0m Authentication complete.
+- gh config set -h github.com git_protocol https
+[0;32m✓[0m Configured git protocol
+[0;32m✓[0m Logged in as [0;1;39mwendy-silva[0m
+[0;33m![0m You were already logged in to this account
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004h[7mlet a = 4;[27m
+[K
+[7mconst foo = (x) => {[27m[K
+[7m  let b = a * 4;[27m[K
+[K
+[7m  const bar = (y) => {[27m[K
+[7m    let c = y * b;[27m[K
+[7m    return c;[27m[K
+[7m  }[27m[K
+[K
+[7m  return bar(b);[27m[K
+[7m}[27m[K
+[K
+[7mconsole.log(foo(a));[27m[K
+[K[14A[20C[27ml[27me[27mt[27m [27ma[27m [27m=[27m [27m4[27m;[2B[27mc[27mo[27mn[27ms[27mt[27m [27mf[27mo[27mo[27m [27m=[27m [27m([27mx[27m)[27m [27m=[27m>[27m [27m{[1B[27m [27m [27ml[27me[27mt[27m [27mb[27m [27m=[27m [27ma[27m [27m*[27m [27m4[27m;[2B[27m [27m [27mc[27mo[27mn[27ms[27mt[27m [27mb[27ma[27mr[27m [27m=[27m [27m([27my[27m)[27m [27m=[27m>[27m [27m{[1B[27m [27m [27m [27m [27ml[27me[27mt[27m [27mc[27m [27m=[27m [27my[27m [27m*[27m [27mb[27m;[1B[27m [27m [27m [27m [27mr[27me[27mt[27mu[27mr[27mn[27m [27mc[27m;[1B[27m [27m [27m}[2B[27m [27m [27mr[27me[27mt[27mu[27mr[27mn[27m [27mb[27ma[27mr[27m([27mb[27m)[27m;[1B[27m}[2B[27mc[27mo[27mn[27ms[27mo[27ml[27me[27m.[27ml[27mo[27mg[27m([27mf[27mo[27mo[27m([27ma[27m)[27m)[27m;[1B[K[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;31m➜  [36mjavascript-scope[00m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope]2;admin@admins-MacBook-Pro]1;..ascript-scope]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/javascript-scope\[0m[27m[24m[J[01;32m➜  [36mjavascript-scope[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures]2;admin@admins-MacBook-Pro]1;..0624/lectures]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures\[0m[27m[24m[J[01;32m➜  [36mlectures[00m [K[?1h=[?2004h....  mmkdir js-arrays[?1l>[?2004l
+]2;mkdir js-arrays]1;mkdir[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures]2;admin@admins-MacBook-Pro]1;..0624/lectures]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures\[0m[27m[24m[J[01;32m➜  [36mlectures[00m [K[?1h=[?2004hl jjs-arrays[1m/[0m[0m [?1l>[?2004l
+]2;js-arrays]1;js-arrays[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays]2;admin@admins-MacBook-Pro]1;..res/js-arrays]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays\[0m[27m[24m[J[01;32m➜  [36mjs-arrays[00m [K[?1h=[?2004httouch index.html app.js[?1l>[?2004l
+]2;touch index.html app.js]1;touch[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays]2;admin@admins-MacBook-Pro]1;..res/js-arrays]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays\[0m[27m[24m[J[01;32m➜  [36mjs-arrays[00m [K[?1h=[?2004hccode .[?1l>[?2004l
+]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays]2;admin@admins-MacBook-Pro]1;..res/js-arrays]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays\[0m[27m[24m[J[01;32m➜  [36mjs-arrays[00m [K[?1h=[?2004hccode .[?1l>[?2004l
+]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays]2;admin@admins-MacBook-Pro]1;..res/js-arrays]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays\[0m[27m[24m[J[01;32m➜  [36mjs-arrays[00m [K[?1h=[?2004hnnode app.jss [?1l>[?2004l
+]2;node app.js]1;node[1m[7m%[27m[1m[0m                                                                                                     ]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays]2;admin@admins-MacBook-Pro]1;..res/js-arrays]7;file://admins-MacBook-Pro.local/Users/admin/code/be-here-now-0624/lectures/js-arrays\[0m[27m[24m[J[01;32m➜  [36mjs-arrays[00m [K[?1h=[?2004h
